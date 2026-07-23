@@ -64,43 +64,6 @@ streamify/
 │
 └── README.md
 ```
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/streamify.git
-cd streamify
-```
-
-### 2️⃣ Backend Setup
-
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file:
-
-Run backend:
-
-```bash
-npm run dev
-```
-
----
-
-### 3️⃣ Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
 ---
 
 ## 🧠 How It Works
@@ -110,14 +73,6 @@ npm start
 * Users can send **friend requests**
 * Once connected, users can chat in **real time** using Stream API
 * JWT ensures secure access to protected routes
-
----
-
-## 📌 Use Cases
-
-* Language learners looking for practice partners
-* Cultural exchange and global networking
-* Real-time communication applications
 
 ---
 
